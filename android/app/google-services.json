@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "416402630412",
+    "firebase_url": "https://to-8-needs-default-rtdb.firebaseio.com",
+    "project_id": "to-8-needs",
+    "storage_bucket": "to-8-needs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416402630412:android:b11a9cf9b80b29a6818b29",
+        "android_client_info": {
+          "package_name": "com.eighttoeightneeds.customerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416402630412-2qfm063eo3e9gtfdb3e2644skv7ss73u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eighttoeightneeds.customerapp",
+            "certificate_hash": "060acf1ff9eb0ec15be0609a60ed6291947d184b"
+          }
+        },
+        {
+          "client_id": "416402630412-o79qssstufaboivf3epp9lukj1etequ2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eighttoeightneeds.customerapp",
+            "certificate_hash": "ac2df1de888b9c0e4c6c211fa4f002320b8aba52"
+          }
+        },
+        {
+          "client_id": "416402630412-1980iu7jhrfvs8hprtkguiidkju9ustg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3mh5ttR5NkyULoXtXAAk2XqlSLOL-BKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416402630412-1980iu7jhrfvs8hprtkguiidkju9ustg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

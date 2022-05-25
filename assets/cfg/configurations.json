@@ -1,0 +1,6 @@
+{
+  "local_base_url": "http://192.168.1.25/8to8needs/",
+  "local_api_base_url": "http://192.168.1.25/8to8needs/api/",
+  "base_url": "https://princemm.8to8needs.com/",
+  "api_base_url": "https://princemm.8to8needs.com/api/"
+}
